@@ -1,17 +1,22 @@
 # 👋 I'm Philemon (Philenzo - Ocean)
+    
+  ### Hi there, I'm Philemon ( **Philenzo - Ocean**) 👋
 
-<div align="center" style="position: relative; overflow: hidden; max-width: 100%;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=800&color=F98B88&center=true&vCenter=true&multiline=true&repeat=true&width=1000&lines=🔥+Multi-Talented+Tech+Creative;💻+Future+Tech+Giant+In+The+Making;🎨+Creative+Designer+%7C+Dev+%7C+Editor+%7C+Cybersecurity+Lover;🚀+Dreaming+Big+%7C+Building+Bigger+%7C+Coding+Forever" alt="Typing SVG" style="max-width: 100%; height: auto;"/>
-</div>
+<!-- Social media badge links for easy contact -->
+<p align="center">
+  <a href="mailto:philemonkusi292@gmail.com"><img src="https://img.shields.io/badge/Email-Philemon_Osei_Kusi-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/philemon-osei-kusi-5970a6343"><img src="https://img.shields.io/badge/LinkedIn-Philemon-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/philenzo.tech_gh"><img src="https://img.shields.io/badge/Instagram-@philenzo.tech_gh-E4405F?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.youtube.com/@philenzo"><img src="https://img.shields.io/badge/YouTube-Philenzo-FF0000?style=for-the-badge&logo=youtube"></a>
+</p>
+
+![header](https://readme-typing-svg.herokuapp.com/?lines=Creative+Graphic+Designer+%F0%9F%96%8C%EF%B8%8F;Animation+Pro+%F0%9F%8E%A8;Web+Dev+%26+Designer+%F0%9F%92%BB;Cybersecurity+%7C+Data+Analyst+%7C+Product+Manager;Welcome+to+my+digital+universe!&center=true&width=800&height=45)
 
 ---
 
-## 🙋‍♂️ About Me
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVhMzM2YmM4YjBhZDBmM2RmZGI4YzZlYmYxZTRkZWIxNzFlNmI0MiZjdD1n/jnQYWtV9GzHRzjDKRf/giphy.gif" width="120" />
-</div>
-
-Hi! I'm **Philemon**, also known as **Philenzo**. I’m a passionate, multi-disciplinary creative technologist — blending code, visuals, strategy, and passion to craft transformative tech experiences.
+### 🎨 Who Am I?
+I'm **Philenzo - Ocean**, a multi-skilled creative and tech enthusiast who blends design, code, and strategy to create extraordinary digital experiences.
+. I’m a passionate, multi-disciplinary creative technologist — blending code, visuals, strategy, and passion to craft transformative tech experiences.
 
 ✨ **My work is where design meets development, and creativity meets logic.**
 
@@ -25,6 +30,8 @@ Hi! I'm **Philemon**, also known as **Philenzo**. I’m a passionate, multi-disc
 - <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> **Programming** – Python, C++, C#, JavaScript  
 - <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png"/> **Data/Product** – Power BI, Excel, Google Sheets, Docs, MS Word  
 - <img src="https://img.icons8.com/color/96/000000/blockchain-new-logo.png"/> **Learning** – Web3, AI, Cloud Engineering
+
+
 
 ---
 
@@ -42,8 +49,10 @@ Hi! I'm **Philemon**, also known as **Philenzo**. I’m a passionate, multi-disc
 ---
 
 ## 🧰 Tools & Technologies I Master
+
+<!-- Skill icons grouped via skillicons.dev with light theme and CSS animation applied -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,python,cpp,c,figma,photoshop,illustrator,blender,canva,premiere,linux,bash,github,git,azure,aws,powershell,wireshark,nmap&theme=light&perline=8" height="240" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,nextjs,wordpress,python,cpp,cs,java,vscode,figma,photoshop,illustrator,clion,blender,ae,premiere,linux,github,git,azure,aws,gcp,numpy,pandas,graphql,mongodb,docker,bash,MSexcel,powerbi,notion&theme=light" style="max-width: 96%; height: auto; animation: pulse 3s infinite; transform: scale(1.15);"/>
 </div>
 
 ---
@@ -57,7 +66,22 @@ Hi! I'm **Philemon**, also known as **Philenzo**. I’m a passionate, multi-disc
 </div>
 
 ---
+🏢 **Aiming For:**
+<div align="center">
+  <!-- Logos of target companies -->
+  <img src="https://cdn.worldvectorlogo.com/logos/google-icon.svg" width="80" height="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/meta-2.svg" width="90" height="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft.svg" width="80" height="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="90" height="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-3.svg" width="80" height="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="90" height="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-icon.svg" width="90" height="90"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/blockchain-1.svg" width="90" height="90"/>
+</div>
+<p align="center"><strong>Google • Meta • Microsoft • Adobe • GitHub • AWS • OpenAI • Web3</strong></p>
 
+
+---
 ## 🎬 Featured On
 🌐 Explore my creative tech content:
 - [🎥 YouTube: @philenzo](https://www.youtube.com/@philenzo)
