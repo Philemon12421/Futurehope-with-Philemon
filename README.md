@@ -27,7 +27,7 @@ I'm **Philenzo - Ocean**, a multi-skilled creative and tech enthusiast who blend
 - <img src="https://img.icons8.com/color/96/000000/adobe-premiere-pro--v1.png"/> **Video Editing** – Adobe Premiere Pro, CapCut  
 - <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/> **Web Design & Development** – HTML, CSS, JavaScript, React, WordPress  
 - <img src="https://img.icons8.com/fluency/96/000000/lock-2.png"/> **Cybersecurity & Networking** – Kali Linux, Wireshark, Burp Suite, Nmap, Metasploit  
-- <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> **Programming** – Python, C++, C#, JavaScript  
+- <img src="https://img.icons8.com/color/96/000000/python--v1.png"/> **Programming** – Python, C++, C#, JavaScript , Git ,Html ,Css ,React ,Flutter ,Django 
 - <img src="https://img.icons8.com/color/96/000000/microsoft-excel-2019--v1.png"/> **Data/Product** – Power BI, Excel, Google Sheets, Docs, MS Word  
 - <img src="https://img.icons8.com/color/96/000000/blockchain-new-logo.png"/> **Learning** – Web3, AI, Cloud Engineering
 
