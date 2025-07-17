@@ -1,0 +1,51 @@
+#include <iostream>
+#include <string>
+#include <cmath>
+
+int main(){
+float weight;
+   float height;
+
+   std::cout << "enter your weight";
+   std::cin >> weight;
+   std::cout <<"enter your height";
+   std::cin >> height;
+   const float BMI = weight/pow(height,2);
+   std::cout << "Display bMI" <<std::endl;
+   if (BMI <18.5)
+   {
+      std::cout << "You  are underweight" << std::endl;
+   }
+   else if (BMI <=25) {
+   std::cout << "You are over height" << std::endl;
+   }
+   else if (BMI <=30)
+   {
+      std::cout << "You are over height" << std::endl;
+   }
+   else if (BMI >=30)
+   {
+      std::cout <<"obesity" << std::endl;
+   }
+   else if (BMI <=35)
+   {
+      std::cout <<"You are class_1 obesity" <<std::endl;
+   }
+   else if (BMI <=40)
+   {
+      std::cout <<"You are class_2 obesity" <<std::endl;
+   }
+   //under weight = 18.5
+   //healthy weight = 18.5-<25
+   //over-weight = 25-<30
+   //obesity >=30
+   //class_1 obesity = 30-<35
+   //class_2 obesity = 35-<40
+
+
+
+
+
+
+   return 0;
+}
